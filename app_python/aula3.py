@@ -1,0 +1,1 @@
+input('Primeiro valor: ')
