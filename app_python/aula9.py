@@ -53,9 +53,9 @@ def move_arquivo(nome_arquivo):
 
 
 if __name__ == '__main__':
-    move_arquivo('notas.txt')
+    #move_arquivo('notas.txt')
     #copia_arquivo('notas.txt')
-    #lista_media = media_notas('notas.txt')
+    lista_media = media_notas('notas.txt')
     #print(lista_media)
     #escrever_arquivo('Primeira linha. \n')
     #aluno = '\nCesar, 7, 9, 3, 8\n'
